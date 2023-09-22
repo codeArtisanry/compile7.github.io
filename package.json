@@ -36,7 +36,7 @@
     "react-helmet": "^5.2.1",
     "react-typography": "^0.16.20",
     "sass-loader": "^7.3.1",
-    "typography": "^0.16.21"
+    "typography": "^0.16.24"
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
